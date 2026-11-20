@@ -1,0 +1,1 @@
+CatSDK (1999–2026) is a collaborative development toolkit focused on turning ideas into complete, working projects. It used available tools and resources to solve problems while staying focused on reliable results. CatSDK followed project requirements, made focused changes, tested its work, and helped carry projects through to completion. **© AC Kondo 1999–2026**
